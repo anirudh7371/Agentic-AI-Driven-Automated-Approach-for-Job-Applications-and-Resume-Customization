@@ -50,3 +50,7 @@ data/github_repos
 qachatbot/
 
 github_fetch_debug.py
+
+resume-agent
+
+data

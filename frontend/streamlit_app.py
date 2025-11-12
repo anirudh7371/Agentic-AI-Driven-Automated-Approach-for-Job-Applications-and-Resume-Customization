@@ -23,7 +23,7 @@ if ROOT_DIR not in sys.path:
     sys.path.insert(0, ROOT_DIR)
 
 # ---- Your requested data dir (macOS path) ----
-DATA_DIR = r"/Users/anirudhsharma/Desktop/Agentic-AI-Driven-Automated-Approach-for-Job-Applications-and-Resume-Customization/frontend/data"
+DATA_DIR = r"C:\Users\Harsh\Downloads\resume-agent\resume-agent-builder\data"
 USER_DATA_PATH = os.path.join(DATA_DIR, "user_data.json")
 GITHUB_REPO_PATH = os.path.join(DATA_DIR, "github_repos")
 PROJECT_DETAILS_DIR = os.path.join(DATA_DIR, "project_details")

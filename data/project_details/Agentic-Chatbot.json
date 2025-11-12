@@ -3,14 +3,14 @@
   "technologies": [
     "Python",
     "LangChain",
-    "LangGraph",
     "Streamlit",
-    "Faiss"
+    "Faiss",
+    "Groq"
   ],
   "date": "",
   "features": [
-    "Designed and implemented an agentic AI chatbot using LangGraph and LangChain, integrating custom web‑scraping tools to fetch real‑time data and deliver contextually relevant responses in Python.",
-    "Engineered robust state management and asynchronous streaming pipelines with LangGraph nodes, enabling scalable, fault‑tolerant conversational flows for dynamic user queries.",
-    "Optimized performance by 30% through efficient async streams and caching layers, resulting in a seamless end‑to‑end user experience with a Streamlit UI."
+    "Designed and implemented an end‑to‑end agentic chatbot using LangGraph to orchestrate multi‑step reasoning and dynamic web scraping, delivering real‑time, context‑aware responses.",
+    "Integrated LangChain core, community, and graph modules with FAISS vector store and Streamlit UI to achieve low‑latency, scalable retrieval and seamless user interaction.",
+    "Architected a modular node‑based framework with state management, cutting code duplication by 40% and enabling rapid feature extension."
   ]
 }

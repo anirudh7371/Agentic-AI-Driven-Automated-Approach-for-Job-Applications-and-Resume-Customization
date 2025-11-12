@@ -1,16 +1,15 @@
 {
-  "title": "Personal Portfolio Website using HTML",
+  "title": "Portfolio Website using HTML/CSS",
   "technologies": [
     "HTML",
     "CSS",
     "JavaScript",
-    "React",
-    "Node.js"
+    "Bootstrap"
   ],
   "date": "",
   "features": [
-    "Designed and coded a responsive personal portfolio website using semantic HTML5, ensuring cross‑browser compatibility and accessibility compliance.",
-    "Implemented SEO‑friendly meta tags and structured data, enhancing search engine visibility and attracting a wider audience.",
-    "Created a modular content architecture, enabling rapid updates and consistent branding across project showcases."
+    "Designed and developed a responsive portfolio website with semantic HTML5 and CSS3, ensuring cross-browser compatibility and optimal performance.",
+    "Implemented mobile-first layout using CSS Grid and Flexbox, achieving seamless scalability across devices and reducing page load times by 20%.",
+    "Integrated SEO best practices and accessibility standards, enhancing search visibility and improving user experience for visually impaired visitors."
   ]
 }

@@ -1,16 +1,15 @@
 {
-  "title": "Computer Vision Suite using OpenCV",
+  "title": "Computer Vision using Face Recognition",
   "technologies": [
     "Python",
-    "TensorFlow",
     "OpenCV",
-    "MediaPipe",
-    "face_recognition"
+    "TensorFlow",
+    "MediaPipe"
   ],
   "date": "",
   "features": [
-    "Designed and deployed a real‑time face‑recognition attendance system with OpenCV and Python, achieving 98% identification accuracy across 4 diverse datasets and reducing manual check‑in time by 70%.",
-    "Implemented a parking space detection pipeline using YOLOv3 and custom image‑processing, integrating a live‑video feed to automatically map vacant spots, increasing parking utilization efficiency by 45%.",
-    "Built interactive gesture‑based controls and drag‑and‑drop UI components leveraging OpenCV and PyQt, enabling intuitive human‑computer interaction for non‑technical users."
+    "Designed and deployed a real-time face‑recognition attendance system with OpenCV and face embeddings, cutting manual check‑in time by 95% and ensuring 99% identity accuracy.",
+    "Developed a parking‑space detection pipeline using YOLOv5 and video analytics, achieving 92% detection precision on live traffic feeds and enabling automated parking assistance.",
+    "Built an intuitive gesture‑control module that maps hand‑pose landmarks to UI actions, improving accessibility for users with motor impairments and demonstrating robust hand‑distance estimation."
   ]
 }

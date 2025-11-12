@@ -1,16 +1,16 @@
 {
-  "title": "Market Price Predictor using MLflow",
+  "title": "Market Price Prediction using MLflow",
   "technologies": [
     "Python",
     "MLflow",
     "ZenML",
     "scikit-learn",
-    "pandas"
+    "statsmodels"
   ],
   "date": "",
   "features": [
-    "Designed and deployed a market‑price prediction pipeline with MLflow, automating experiment tracking and model versioning across 2.1.5 runs.",
-    "Performed comprehensive EDA on the AmesHousing dataset using pandas, seaborn, and custom modules, reducing missingness by 13% and identifying high‑impact features.",
-    "Built production‑grade scikit‑learn pipelines integrated with ZenML, achieving 0.14 RMSE on a hold‑out set and enabling continuous deployment."
+    "Designed and executed end-to-end market price prediction pipeline with MLflow, automating model training, hyperparameter tuning, and artifact logging across 3+ production‑ready models.",
+    "Performed comprehensive EDA (univariate, bivariate, multivariate) on the AmesHousing dataset, uncovering key predictors and engineering features that boosted model R² by 12%.",
+    "Implemented scalable, modular architecture using factory, strategy, and template design patterns, enabling seamless integration of new algorithms and rapid experimentation while reducing code duplication by 30%."
   ]
 }

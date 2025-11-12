@@ -1,14 +1,15 @@
 {
-  "title": "Web App using Node.js",
+  "title": "Basic Node.js App using Express",
   "technologies": [
     "Node.js",
     "JavaScript",
-    "React"
+    "npm",
+    "Express"
   ],
   "date": "",
   "features": [
-    "Designed and implemented a modular Node.js web application with clear separation of concerns across app.js, constants.js, and index.js, ensuring maintainability and scalability.",
-    "Optimized request handling and middleware pipelines, reducing average response time by 30% and enabling seamless integration of third‑party services.",
-    "Configured environment‑aware deployment scripts via package.json scripts and CI/CD hooks, delivering automated builds, linting, and unit tests for reliable production releases."
+    "Designed and implemented a modular Express.js server architecture, separating concerns across app, constants, and index modules for scalable maintenance",
+    "Leveraged Node.js ES6 features to create a clean, testable codebase with robust error handling and environment‑based configuration",
+    "Deployed the application with automated logging and health‑check endpoints, ensuring high availability and rapid troubleshooting in production"
   ]
 }
