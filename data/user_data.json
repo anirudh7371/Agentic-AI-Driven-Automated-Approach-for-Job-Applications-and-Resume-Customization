@@ -7,24 +7,55 @@
   "education": [
     {
       "institution": "Vellore Institute of Technology",
-      "period": "Sep 2022 – Present",
-      "degree": "B.Tech in Computer Science",
-      "cgpa": "9.14",
-      "location": "Vellore, India"
+      "location": "Vellore, India",
+      "degree": "B.Tech",
+      "field": "Computer Science",
+      "start_date": "Sep 2022",
+      "end_date": "Present",
+      "cgpa": 9.14
     },
     {
       "institution": "DAV Hehal Ranchi",
-      "period": "Apr 2021 – Apr 2022",
-      "degree": "Class 12th",
-      "cgpa": "89.2%",
-      "location": "Ranchi, Jharkhand"
+      "location": "Ranchi, Jharkhand",
+      "level": "Class 12th",
+      "percentage": 89.2,
+      "start_date": "Apr 2021",
+      "end_date": "Apr 2022"
     },
     {
       "institution": "DAV Hehal Ranchi",
-      "period": "Apr 2019 – Apr 2020",
-      "degree": "Class 10th",
-      "cgpa": "96.4%",
-      "location": "Ranchi, Jharkhand"
+      "location": "Ranchi, Jharkhand",
+      "level": "Class 10th",
+      "percentage": 96.4,
+      "start_date": "Apr 2019",
+      "end_date": "Apr 2020"
+    }
+  ],
+  "relevantCoursework": [
+    {
+      "course": "Data Structures",
+      "rating": "4/5"
+    },
+    {
+      "course": "Agentic AI",
+      "rating": "4/5"
+    },
+    {
+      "course": "Deep Learning",
+      "rating": "4/5"
+    },
+    {
+      "course": "OOP"
+    },
+    {
+      "course": "Generative AI"
+    },
+    {
+      "course": "NLP"
+    },
+    {
+      "course": "Data Science",
+      "rating": "4/5"
     }
   ],
   "languages": [
